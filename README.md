@@ -1,4 +1,4 @@
-# Cooking Blog MongoDB - Node.js
+# Recipe Blog - Using Node.js and MongoDB
 
 This was created as part of YouTube Video. Links below
 
