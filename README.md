@@ -7,13 +7,10 @@ This was created as part of YouTube Video. Links below
 UPDATE THIS
 
 ## Create .env file
-Create a .env file to store your database credentials
+Create a .env file to store your MongoDB database credentials
 
 ```
-DB_HOST = localhost
-DB_NAME = usermanagement_tut
-DB_USER = root
-DB_PASS = password
+MONGODB_URI = mongodb+srv://<username>:<password>@cluster0.6m5cz.mongodb.net/Recipes?retryWrites=true&w=majority
 ```
 
 ## Installation
@@ -27,9 +24,9 @@ $ npm start
 
 ### YouTube Video & Article
 
-[YouTube Video](https://youtu.be/1aXZQcG2Y6I)
+[YouTube Video](https://youtu.be/OEdPH4fV7vY)
 
-[Read Article](https://raddy.co.uk/blog/simple-user-management-system-nodejs-express-mysql-handlebards/)
+[Read Article](https://raddy.co.uk/blog/how-to-build-a-recipe-blog-using-node-js-and-mongodb-express-ejs-mongoose-crud/)
 
 ### YouTube Channel - RaddyTheBrand
 
@@ -39,6 +36,6 @@ $ npm start
 [www.raddy.co.uk](https://www.raddy.co.uk)
 
 ### Donations
-[Via Paypal](https://www.paypal.me/RadoslavAngelov)
+[Via Paypal](https://www.paypal.com/donate/?hosted_button_id=YUH7JRDUN5QEY)
 
 [Buy me a Coffee](https://www.buymeacoffee.com/RaddyTheBrand)
