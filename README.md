@@ -33,7 +33,7 @@ $ npm start
 [Subscribe to my YouTube Channel](https://www.youtube.com/channel/UCvXscyQ0cLzPZeNOeXI45Sw?sub_confirmation=1)
 
 ### Website
-[www.raddy.co.uk](https://www.raddy.dev)
+[www.raddy.dev(https://www.raddy.dev)
 
 ### Donations
 [Via Paypal](https://www.paypal.com/donate/?hosted_button_id=YUH7JRDUN5QEY)
